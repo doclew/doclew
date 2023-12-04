@@ -3,9 +3,10 @@
 <h3 align="left" > creative frontend developer who loves mixing media</h3>
 <br/>
 <ul>
-<li> 🚀 I’m currently working for <b>Yomi</b> </li>
-<li> 🌱 I’m currently learning Threejs, shaders and React in deep </li>
-<li> ✨ I’m looking to collaborate on creative projects using 3D and animations </li>
+<li> 🚀 Currently coding pixels at <b>Yomi</b> </li>
+<li> 🌱 Deep diving into Threejs, shaders and React </li>
+<li> 🌱 Exploring physical computing, interaction design and creative technology </li>
+<li> ✨ Open to collaborations on game development and innovative projects using 3D and animations </li>
 <li> 💌 How to reach me: lulubattelli@gmail.com </li>
 </ul>
 <br/>
