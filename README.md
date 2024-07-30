@@ -5,7 +5,7 @@
 <h3 align="left" >freelance creative technologist who loves mixing media</h3>
 <br/>
 <ul>
-<li> ✷ Deep diving into physical computing, interaction design cretive development </li>
+<li> ✷ Deep diving into physical computing, interaction design creative development </li>
 <li> ✦ Open to collaborations on innovative projects using 3D and human interaction </li>
 <li> ✷ How to reach me: lulubattelli@gmail.com </li>
 </ul>
