@@ -4,11 +4,11 @@
 
 <h3 align="left" >freelance creative technologist who loves mixing media</h3>
 <br/>
-<ul>
-<li> ✷ Deep diving into physical computing, interaction design and creative development </li>
-<li> ✦ Open to collaborations on innovative projects using 3D and HCI </li>
-<li> ✷ How to reach me: lulubattelli@gmail.com </li>
-</ul>
+<div>
+ ✷ Deep diving into physical computing, interaction design and creative development <br/>
+✦ Open to collaborations on innovative projects using 3D and HCI <br/>
+✷ How to reach me: lulubattelli@gmail.com 
+</div>
 <br/>
 <h3 align="left">⭑ My fav stack:</h3>
  React + Three.js + Blender + TouchDesigner + Arduino
