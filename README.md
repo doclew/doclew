@@ -5,13 +5,13 @@
 <h3 align="left" >freelance creative technologist who loves mixing media</h3>
 <br/>
 <ul>
-<li> ✷ Deep diving into physical computing, interaction design creative development </li>
-<li> ✦ Open to collaborations on innovative projects using 3D and human interaction </li>
+<li> ✷ Deep diving into physical computing, interaction design and creative development </li>
+<li> ✦ Open to collaborations on innovative projects using 3D and HCI </li>
 <li> ✷ How to reach me: lulubattelli@gmail.com </li>
 </ul>
 <br/>
-<h3 align="left">Tool stack:</h3>
-React, Vue, Three.js, GSAP, Blender, TouchDesigner, Arduino, Figma, Adobe Suite, 
+<h3 align="left">⭑ My fav stack:</h3>
+ React + Three.js + Blender + TouchDesigner + Arduino
 <br/> <br/> 
 <hr/> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=doclew&label=Profile%20views&color=0e75b6&style=flat" alt="doclew" /> </p>
